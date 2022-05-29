@@ -12,10 +12,11 @@ Database tersebut terdiri dari 6 tabel, yaitu:
 </ol>
 
 <h1><b>Desain Database</b></h1>
-![Desain Database](https://user-images.githubusercontent.com/67790978/170881043-6e7efcbe-afbb-4ad0-9fe6-fdbd81cfda79.png)
+![Desain Database](https://user-images.githubusercontent.com/67790978/170881217-6790c190-6847-4bdd-aa74-bdcaf7621c5c.png)
 
 <h1><b> Dokumentasi Homepage </b></h1>
-![Homepage - 1](https://user-images.githubusercontent.com/67790978/170881046-e3d15679-db14-4e85-bfc3-6e800b129340.png)
-![Homepage - 2](https://user-images.githubusercontent.com/67790978/170881048-5a592482-b919-416e-9b38-0921c100e23b.png)
-![Homepage - 3](https://user-images.githubusercontent.com/67790978/170881050-482b2c98-6f17-4df1-adf6-62c359665f41.png)
+![Homepage - 1](https://user-images.githubusercontent.com/67790978/170881224-44b87202-869b-46b2-b205-c785c6e304fb.png)
+![Homepage - 2](https://user-images.githubusercontent.com/67790978/170881225-2a29b9cb-9060-4a71-9fa1-bc7648c84859.png)
+![Homepage - 3](https://user-images.githubusercontent.com/67790978/170881226-965d23a3-f01b-49e3-aa89-e2d980c28ae9.png)
+
   
